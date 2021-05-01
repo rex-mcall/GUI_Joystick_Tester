@@ -3,7 +3,7 @@
 Python script that takes in inputs from a USB joystick device and draws the inputs on the screen.
 
 ## Library installation:
-This program uses pygame for joystick input and graphical display. It can be isntalled by opening the command prompt with elevated privledges
+This program uses pygame for joystick input and graphical display. It can be installed by opening the command prompt with elevated privledges
 and entering the following command:
 
 ```
